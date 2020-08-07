@@ -1,0 +1,23 @@
+{
+  "name": "node-rabbitmq-con",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warlock/node-rabbitmq-con.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warlock/node-rabbitmq-con/issues"
+  },
+  "homepage": "https://github.com/warlock/node-rabbitmq-con#readme",
+  "dependencies": {
+    "amqplib": "^0.6.0"
+  }
+}
